@@ -9,3 +9,10 @@ def print_script_and_variables():
     
     print("Script:", script_name)
     print("Script and Variables:", " ".join(sys.argv))
+
+
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
