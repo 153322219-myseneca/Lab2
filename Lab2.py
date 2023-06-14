@@ -12,7 +12,7 @@ def print_script_and_variables():
 
 
 def helloWorld():
-	print(‘Hello World’)
+	print('Hello World')
 
 
 helloWorld()
